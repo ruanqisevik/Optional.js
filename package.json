@@ -1,0 +1,14 @@
+{
+  "name": "optional",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Q.Roy",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
