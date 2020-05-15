@@ -8,6 +8,7 @@
   },
   "author": "Q.Roy",
   "license": "MIT",
+  "homepage": "https://github.com/ruanqisevik/Optional.js",
   "devDependencies": {
     "jest": "^26.0.1"
   }
